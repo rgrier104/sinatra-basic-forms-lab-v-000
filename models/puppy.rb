@@ -1,4 +1,4 @@
-class puppy
+class Puppy
 
 
 
